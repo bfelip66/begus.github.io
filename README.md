@@ -16,4 +16,4 @@ A9: Creació de la visualització i lliurament del projecte (Pràctica II)
 
 * Codi publicat a GitHub, amb una llicència de codi obert.
 * Incloure tots els fitxers necessaris per executar l’aplicació en un servidor web local. 
-* URL de la pantalla de visualització inicial pública i sense registre: https://observablehq.com/embed/@bfelip66/practica-ii-de-visualitzacio-de-dades?cell=*
+* URL de la pantalla de visualització inicial pública i sense registre: [https://observablehq.com/embed/@bfelip66/practica-ii-de-visualitzacio-de-dades?cell=*](https://observablehq.com/embed/@bfelip66/practica-ii-de-visualitzacio-de-dades?cell=*)
